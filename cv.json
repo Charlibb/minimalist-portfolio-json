@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Carlos B. Borruel",
-    "label": "Certified full-stack web developer. Great communicator with a passion for learning, with international background job experience in multicultural teams.",
+    "label": "Certified full-stack web developer and programmer.",
     "image": "/Carlos_B&W_yo.webp",
     "email": "cborrueldev@gmail.com",
     "url": "https:/404.dev",
@@ -268,7 +268,7 @@
     {
       "name": "Minimalist json portfolio",
       "description": "Minimalist cv site, built in Astro",
-      "highlights": ["Tailwind", "Astro", "Typescript"],
+      "highlights": ["Astro", "Typescript", "Keyboard Manager"],
       "url": "https://github.com/Charlibb/minimalist-portfolio-json"
     }
   ]

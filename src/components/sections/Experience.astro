@@ -23,11 +23,9 @@ const { city, region } = location;
           summary,
           location,
           highlights,
-          url,
         }) => {
           const startYear = new Date(startDate).getFullYear();
           const endYear =
-
             endDate != null ? new Date(endDate).getFullYear() : 'Actual';
           const years = `${startYear} - ${endYear}`;
 
@@ -37,7 +35,7 @@ const { city, region } = location;
                 <header>
                   <div>
                     <h3>
-                      <a href={url} title={`Ver ${name}`} target='_blank'>
+                      <a title={`Ver ${name}`} target='_blank'>
                         {name}
                       </a>
                     </h3>
@@ -45,16 +43,12 @@ const { city, region } = location;
                   </div>
 
                   <div>
-                    <time 
-                      datetime={startDate}
-                      data-title={startDate}>
-                        {startYear}
+                    <time datetime={startDate} data-title={startDate}>
+                      {startYear}
                     </time>
-                    {" - "}
-                    <time 
-                      datetime={endDate}
-                      data-title={endDate}>
-                        {endYear}
+                    {' - '}
+                    <time datetime={endDate} data-title={endDate}>
+                      {endYear}
                     </time>
                   </div>
                 </header>
@@ -124,10 +118,15 @@ const { city, region } = location;
     content: attr(data-title);
     background-color: #333;
     color: #fff;
-    font-size: .75rem;
-    font-family: Menlo, Monaco, Lucida Console, "Courier New", monospace;;
+    font-size: 0.75rem;
+    font-family:
+      Menlo,
+      Monaco,
+      Lucida Console,
+      'Courier New',
+      monospace;
     position: absolute;
-    padding: .2rem .5rem;
+    padding: 0.2rem 0.5rem;
     bottom: -1.4rem;
     left: 50%;
     white-space: nowrap;
