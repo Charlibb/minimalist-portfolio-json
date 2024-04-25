@@ -252,7 +252,7 @@
     {
       "name": "JS30",
       "isActive": true,
-      "description": "30 small javascript proyects",
+      "description": "30 small javascript proyects. WIP.",
       "highlights": ["Javascript", "HTML", "CSS"],
       "url": "https://github.com/Charlibb/Js30",
       "github": "https://github.com/Charlibb/Js30"
@@ -267,9 +267,10 @@
     },
     {
       "name": "Minimalist json portfolio",
+      "isActive": true,
       "description": "Minimalist cv site, built in Astro",
       "highlights": ["Astro", "Typescript", "Keyboard Manager"],
-      "url": "https://github.com/Charlibb/minimalist-portfolio-json"
+      "url": "https://jade-souffle-2e5506.netlify.app/"
     }
   ]
 }
