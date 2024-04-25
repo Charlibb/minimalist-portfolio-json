@@ -3,7 +3,7 @@
 <div align="center">
 <img src="logo.png" height="90px" width="auto" /> 
 <h2>
-    <em>Resume</em> minimalistic for webs & pdf
+    Minimalistic <em>Resume</em> for webs & pdf
 </h2>
 <p>
 JSON  CV Scheme taken from <a href="https://jsonresume.org/schema/">jsonresume.org</a>
