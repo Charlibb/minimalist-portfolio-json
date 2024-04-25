@@ -3,15 +3,16 @@
 <div align="center">
 <img src="logo.png" height="90px" width="auto" /> 
 <h2>
-    <em>Résumé</em> minimalista maquetado para web y pdf
+    <em>Resume</em> minimalistic for webs & pdf
 </h2>
 <p>
-Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
+JSON  CV Scheme taken from <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 </p>
 
 
 <p>
-Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+Based in the design created by <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+Forked and updated from (https://midu.dev). 
 
 </p>
 
@@ -19,20 +20,18 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 <div align="center">
     <a href="#🚀-empezar">
-        Empezar
+        Start
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="#🧞-comandos">
-        Comandos
+        Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="#🔑-licencia">
-        Licencia
+        Licence
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
-        Personal
-    </a>
+ 
    
 </div>
 
@@ -52,53 +51,57 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 ## 🛠️ Stack
 
-- [**Astro**](https://astro.build/) - El framework web de la nueva época.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menu desplegable con atajos de teclado hecho en puro Javascript.
+- [**Astro**](https://astro.build/) - The web framework for content-driven websites.
+- [**Typescript**](https://www.typescriptlang.org/) - JavaScript with tipyng syntax.
+- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcut interface for the website that works with Vanilla JS, Vue, and React.
 
 
-## 🚀 Empezar
-
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
 
 
-- Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
+## 🚀 Starting
+
+### 1. Use this [repo](https://github.com/midudev/minimalist-portfolio-json) as _template_ for an Astro proyect
+
+
+- I use  [pnpm](https://pnpm.io/installation) as dependency dependency manager and packager.
 
 ```bash
-# Activa pnpm en MacOS, WSL & Linux:
+# Active pnpm on MacOS, WSL & Linux:
 corepack enable
 corepack prepare pnpm@latest --activate
 
-# Inicializa el proyecto
+# Initialize the project
 pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
 ```
 
-### 2. Añade tu contenido:
-Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
-### 3. Lanza el servidor de desarrollo:
+### 2. Add your content :
+Edit `cv.json` file to create your own printable Portfolio/CV.
+### 3. Launch developer server:
 
 ```bash
-# Disfruta del resultado
+# Enjoy the result
 pnpm dev
 ```
 
 
-1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
+1. Open [**http://localhost:4321**](http://localhost:4321/) on your browser to see the results 🚀
 
 
-## 🧞 Comandos
+## 🧞 Commands
 
-|     | Comando          | Acción                                        |
+|     | Command          | Action                                        |
 | :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.  |
-| ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
-| ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
+| ⚙️  | `dev` o `start` | Launches a local development server on `localhost:4321`.  |
+| ⚙️  | `build`          | Checks for possible errors and makes a production packaging in`./dist/`.      |
+| ⚙️  | `preview`        | Local preview view on `localhost:4321` |
 
 
 
-## 🔑 Licencia
+## 🔑 Licence
 
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
+[MIT](LICENSE.txt) - Create by [**midudev**](https://midu.dev).
+
+MUCHAS GRACIAS, MIDU!!! ❤🫶
 
 
 
