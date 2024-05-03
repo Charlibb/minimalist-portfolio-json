@@ -285,7 +285,8 @@
       "isActive": false,
       "description": "Minimalist cv site, built in Astro",
       "highlights": ["Astro", "Typescript", "Keyboard Manager"],
-      "url": "https://cborrueldev.netlify.app/"
+      "url": "https://cborrueldev.netlify.app/",
+      "github": "https://github.com/Charlibb/minimalist-portfolio-json"
     }
   ]
 }
