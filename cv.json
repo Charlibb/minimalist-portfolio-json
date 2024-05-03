@@ -36,7 +36,7 @@
       "position": "Software engineer developer",
       "startDate": "2021-01-08",
       "endDate": "2024-01-04",
-      "summary": "Front-end development in modern JavaScript, TypeScript, HTML5, CSS3, and CSS preprocessors (SASS).",
+      "summary": "Front-end development in modern JavaScript, TypeScript, HTML5, CSS3, React, Next and CSS preprocessors (SASS).",
       "highlights": ["Marketplace"],
       "location": {
         "city": "Berlin",
@@ -235,7 +235,7 @@
     },
     {
       "name": "ChatBot-GPT",
-      "isActive": true,
+      "isActive": false,
       "description": "Full-stack chatbot application built in React, TypeScript, Vite, and Node.js.",
       "highlights": ["OpenAI", "ChatBot", "API", "ReactJS", "Typescript"],
       "url": "https://github.com/Charlibb/chatbot-project",
@@ -243,7 +243,7 @@
     },
     {
       "name": "MonkeyType",
-      "isActive": true,
+      "isActive": false,
       "description": "100% pure vainilla Javascript project based on the popular Monkeytype game",
       "highlights": ["Javascript", "Game"],
       "url": "https://github.com/Charlibb/monkeyType",
@@ -259,15 +259,30 @@
     },
     {
       "name": "Rick & Morty Character Generator",
-      "isActive": true,
+      "isActive": false,
       "description": "An application built with HTML, Bootstrap 5 and JavaScript where I fetch characters from an API and display them by the click of a button.",
       "highlights": ["Bootstrap", "Javascript"],
       "url": "https://github.com/Charlibb/-rick-and-morty-character-generator",
       "github": "https://github.com/Charlibb/-rick-and-morty-character-generator"
     },
     {
+      "name": "Invoice app",
+      "isActive": false,
+      "description": "Student collective project: Web application designed for effortless management of invoices – developed using MERN stack technology. Generate pdf invoices, keep track of clients, expenses and tasks. Intended for freelance use.",
+      "highlights": [
+        "Tailwind",
+        "MERN",
+        "MongoDB",
+        "Express",
+        "ReactJS",
+        "NodeJS"
+      ],
+      "url": "https://invoices-orpin.vercel.app/",
+      "github": "https://github.com/Charlibb/all-invoice"
+    },
+    {
       "name": "Minimalist json portfolio",
-      "isActive": true,
+      "isActive": false,
       "description": "Minimalist cv site, built in Astro",
       "highlights": ["Astro", "Typescript", "Keyboard Manager"],
       "url": "https://cborrueldev.netlify.app/"
