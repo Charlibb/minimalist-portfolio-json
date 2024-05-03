@@ -8,26 +8,25 @@
 <p>
 JSON  CV Scheme taken from <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 </p>
-
-
 <p>
 Based in the design created by <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
-Forked and updated from (https://midu.dev). 
+Forked and updated from 
+<a href="https://github.com/midudev">Midudev</a> 
 
 </p>
 
 </div>
 
 <div align="center">
-    <a href="#🚀-empezar">
+    <a href="#🚀-starting">
         Start
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🧞-comandos">
+    <a href="#🧞-Commands">
         Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🔑-licencia">
+    <a href="#🔑-Licence">
         Licence
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -40,10 +39,7 @@ Forked and updated from (https://midu.dev).
 <div align="center">
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/minimalist-portfolio-json)
-![GitHub issues](https://img.shields.io/github/issues/midudev/minimalist-portfolio-json)
-![GitHub forks](https://img.shields.io/github/forks/midudev/minimalist-portfolio-json)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/minimalist-portfolio-json)
+
 
 </div>
 
@@ -99,7 +95,7 @@ pnpm dev
 
 ## 🔑 Licence
 
-[MIT](LICENSE.txt) - Create by [**midudev**](https://midu.dev).
+[MIT](LICENSE.txt) - Created by [**midudev**](https://midu.dev).
 
 MUCHAS GRACIAS, MIDU!!! ❤🫶
 
