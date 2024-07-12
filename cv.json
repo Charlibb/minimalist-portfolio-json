@@ -216,6 +216,15 @@
   ],
   "projects": [
     {
+      "name": "Game Review mobile app",
+      "isActive": true,
+      "description": "Latest reviews fetched from game ranking website. Built on expo and react native.",
+      "highlights": ["ReactNative", "Expo", "API"],
+      "url": "https://github.com/Charlibb/metacritic-app-react-native",
+      "github": "https://github.com/Charlibb/metacritic-app-react-native"
+    },
+
+    {
       "name": "Arkanoid JS",
       "isActive": false,
       "description": "A vainilla Javascript mockup from the classic 80´s game ",
@@ -241,8 +250,8 @@
     },
     {
       "name": "JS30",
-      "isActive": true,
-      "description": "30 small javascript projects. WIP.",
+      "isActive": false,
+      "description": "30 small javascript projects.",
       "highlights": ["Javascript", "HTML", "CSS"],
       "url": "https://github.com/Charlibb/Js30",
       "github": "https://github.com/Charlibb/Js30"
