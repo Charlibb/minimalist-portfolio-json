@@ -187,6 +187,12 @@
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
+      "name": "React",
+      "title": "Native",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
       "name": "Premiere",
       "level": "Avanzado",
       "keywords": ["Video editing", "Video", "Adobe Suite"]

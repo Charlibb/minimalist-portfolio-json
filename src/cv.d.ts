@@ -62,6 +62,7 @@ interface Volunteer {
 }
 
 interface Skills {
+  title: string
   name: string
   level: string
   keywords: Array<string>
