@@ -56,7 +56,7 @@ Forked and updated from
 
 ## 🚀 Starting
 
-### 1. Use this [repo](https://github.com/midudev/minimalist-portfolio-json) as _template_ for an Astro proyect
+### 1. Use this [repo](https://github.com/midudev/minimalist-portfolio-json) as _template_ for an Astro project
 
 
 - I use  [pnpm](https://pnpm.io/installation) as dependency dependency manager and packager.
