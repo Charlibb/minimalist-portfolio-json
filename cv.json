@@ -222,6 +222,14 @@
   ],
   "projects": [
     {
+      "name": "Food Recipes mobile app",
+      "isActive": true,
+      "description": "Recipe app created on expo for Ios and Android devices",
+      "highlights": ["ReactNative", "Expo", "Redux"],
+      "url": "https://github.com/Charlibb/FoodApp",
+      "github": "https://github.com/Charlibb/FoodApp"
+    },
+    {
       "name": "Game Review mobile app",
       "isActive": true,
       "description": "Latest reviews fetched from game ranking website. Built on expo and react native.",
