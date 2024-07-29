@@ -233,7 +233,7 @@
       "name": "Game Review mobile app",
       "isActive": true,
       "description": "Latest reviews fetched from game ranking website. Built on expo and react native.",
-      "highlights": ["ReactNative", "Expo", "API"],
+      "highlights": ["ReactNative", "Expo", "web scrapping API"],
       "url": "https://github.com/Charlibb/metacritic-app-react-native",
       "github": "https://github.com/Charlibb/metacritic-app-react-native"
     },
