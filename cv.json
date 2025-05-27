@@ -32,6 +32,18 @@
   },
   "work": [
     {
+      "name": "Kyan Health",
+      "position": "Full stack engineer developer",
+      "startDate": "2024-01-08",
+      "endDate": "2025-07-01",
+      "summary": "Fullstack app development in React Native, Typescript, Firebase Cloud functions.",
+      "highlights": ["Marketplace"],
+      "location": {
+        "city": "Berlin",
+        "region": "Germany"
+      }
+    },
+    {
       "name": "diconium",
       "position": "Software engineer developer",
       "startDate": "2022-01-08",
