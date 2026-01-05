@@ -234,6 +234,13 @@
   ],
   "projects": [
     {
+      "name": "Ayurvedic Retreat",
+      "isActive": true,
+      "description": "Portfolio for a Ayurvedic retreat made with Astro, multi-language",
+      "highlights": ["Astro", "Typescript"],
+      "url": "https://www.valeskahealing.com"
+    },
+    {
       "name": "Food Recipes mobile app",
       "isActive": true,
       "description": "Recipe app created on expo for Ios and Android devices",
